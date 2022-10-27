@@ -1,0 +1,6 @@
+include README.md
+include docs/*.md
+include CHANGELOG.md
+include BACKLOG.md
+include LICENSE.md
+
